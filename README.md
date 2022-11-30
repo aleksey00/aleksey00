@@ -3,7 +3,7 @@
 - 👀 I’m interested in designing and creating awesome things that are also useful
 - 🌱 I’m currently learning how to control weather with the power of my mind
 - 💞️ I’m looking to collaborate on exciting pojects
-- 📫 How to reach me ... pigeon mail
+- 📫 How to reach me ... [pigeon mail](https://avocado-ninja.com/#open-modal)
 - Please check my favorite project: ✨[Dust Fairy](https://github.com/aleksey00/dust-fairy)✨ automatic dust collection system
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aleksey00)
